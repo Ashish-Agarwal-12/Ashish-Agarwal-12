@@ -444,6 +444,21 @@ function footer(t) {
 }
 
 /* ------------------------------------------------------------------ *
+ * Tech stack icons (skillicons.dev), saved locally.
+ * Stored in the repo because a URL with commas can't go in <source srcset>
+ * (browsers split srcset on commas), and so the profile doesn't depend on the service.
+ * ------------------------------------------------------------------ */
+const SKILLS = ['java', 'spring', 'ts', 'js', 'nodejs', 'express', 'nextjs', 'react', 'tailwind', 'threejs', 'postgres', 'mysql', 'mongodb', 'redis', 'prisma', 'docker', 'githubactions', 'vercel', 'gradle', 'maven', 'git'];
+
+async function skillIcons(mode) {
+  const url = `https://skillicons.dev/icons?i=${SKILLS.join(',')}&perline=11&theme=${mode}`;
+  const res = await fetch(url, { headers: { 'User-Agent': 'profile-readme-generator' } });
+  const svg = await res.text();
+  if (!res.ok || !svg.trimStart().startsWith('<svg')) throw new Error(`skillicons.dev returned ${res.status}`);
+  return svg;
+}
+
+/* ------------------------------------------------------------------ *
  * Connect buttons
  * ------------------------------------------------------------------ */
 function button(kind, t) {
@@ -475,6 +490,11 @@ async function main() {
     await write(`footer-${mode}.svg`, footer(t));
     await write(`btn-linkedin-${mode}.svg`, button('linkedin', t));
     await write(`btn-repos-${mode}.svg`, button('repos', t));
+    try {
+      await write(`skills-${mode}.svg`, await skillIcons(mode));
+    } catch (e) {
+      console.warn(`::warning::Tech stack icons not refreshed, keeping the saved copy: ${e.message}`);
+    }
     for (const [i, pr] of PROJECTS.entries()) await write(`card-${pr.slug}-${mode}.svg`, card(pr, t, i));
   }
 

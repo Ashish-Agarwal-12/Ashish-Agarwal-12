@@ -37,8 +37,8 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,nextjs,react,tailwind,threejs,postgres,mysql,mongodb,redis,prisma,docker,githubactions,vercel,gradle,maven,git&perline=11&theme=dark">
-    <img alt="Java, Spring, TypeScript, JavaScript, Node.js, Express, Next.js, React, Tailwind, Three.js, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Docker, GitHub Actions, Vercel, Gradle, Maven, Git" src="https://skillicons.dev/icons?i=java,spring,ts,js,nodejs,express,nextjs,react,tailwind,threejs,postgres,mysql,mongodb,redis,prisma,docker,githubactions,vercel,gradle,maven,git&perline=11&theme=light" width="88%">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/skills-dark.svg">
+    <img alt="Java, Spring, TypeScript, JavaScript, Node.js, Express, Next.js, React, Tailwind, Three.js, PostgreSQL, MySQL, MongoDB, Redis, Prisma, Docker, GitHub Actions, Vercel, Gradle, Maven, Git" src="assets/skills-light.svg" width="88%">
   </picture>
 </p>
 
