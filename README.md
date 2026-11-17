@@ -37,6 +37,6 @@ I like the hard parts of backend work — booking systems that never double-book
 
 <!-- Add the links you want public, e.g.:
 [LinkedIn](https://www.linkedin.com/in/your-handle) · [Portfolio](https://your-site.com)
--->
+-->[LinkedIn](https://www.linkedin.com/in/ashishagarwal12/)
 
 ⭐ If something here is useful to you, a star is always appreciated!
