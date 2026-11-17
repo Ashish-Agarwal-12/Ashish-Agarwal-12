@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="140" viewBox="0 0 1200 140" role="img" aria-label="Thanks for visiting">
+<title>Thanks for visiting!</title>
+<defs><linearGradient id="w" x1="0" x2="1"><stop offset="0" stop-color="#7c3aed"/><stop offset="0.5" stop-color="#0891b2"/><stop offset="1" stop-color="#d97706"/></linearGradient></defs>
+<style>
+  .w1{animation:slide 9s linear infinite}.w2{animation:slide 14s linear infinite reverse}
+  @keyframes slide{to{transform:translateX(-300px)}}
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+</style>
+<path class="w2" d="M0 92 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 q 75 -16 150 0 t 150 0 V 140 H 0 Z" fill="url(#w)" opacity="0.35"/>
+<path class="w1" d="M0 104 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 q 75 -12 150 0 t 150 0 V 140 H 0 Z" fill="url(#w)" opacity="0.8"/>
+<text x="600" y="54" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="700" fill="#1f2328">Thanks for stopping by ✨</text>
+</svg>

@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="496" viewBox="0 0 1200 496" role="img" aria-label="About Ashish">
+<title>About Ashish: full-stack developer in India building an IRCTC-style reservation backend</title>
+<style>
+  .ln{opacity:0;animation:in .5s ease-out forwards}
+  @keyframes in{from{opacity:0;transform:translateX(-12px)}to{opacity:1;transform:none}}
+  .cursor{animation:blink 1s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  @media (prefers-reduced-motion: reduce) { * { animation: none !important; opacity: 1 !important; } }
+</style>
+<rect x="0.5" y="0.5" width="1199" height="495" rx="16" fill="#161b22" stroke="#30363d"/>
+<path d="M1,48 H1199" stroke="#30363d"/>
+<circle cx="30" cy="25" r="7" fill="#ff5f57"/><circle cx="54" cy="25" r="7" fill="#febc2e"/><circle cx="78" cy="25" r="7" fill="#28c840"/>
+<rect x="112" y="10" width="150" height="38" rx="8" fill="#0d1117" stroke="#30363d"/>
+<text x="132" y="34" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="15" fill="#e6edf3">ashish.ts</text>
+<circle cx="245" cy="29" r="4" fill="#22d3ee"/>
+<text x="1176" y="34" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#8b949e">TypeScript · UTF-8</text>
+<g class="ln" style="animation-delay:0.25s">
+      <text x="72" y="100" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">1</text>
+      <text x="100" y="100" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve"><tspan fill="#ff7b72">const</tspan> <tspan fill="#d2a8ff">ashish</tspan> <tspan fill="#8b949e">=</tspan> <tspan fill="#8b949e">{</tspan></text>
+    </g><g class="ln" style="animation-delay:0.43s">
+      <text x="72" y="136" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">2</text>
+      <text x="100" y="136" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">role</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#a5d6ff">"Full-stack developer"</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:0.61s">
+      <text x="72" y="172" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">3</text>
+      <text x="100" y="172" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">location</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#a5d6ff">"India"</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:0.79s">
+      <text x="72" y="208" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">4</text>
+      <text x="100" y="208" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">backend</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#8b949e">[</tspan><tspan fill="#a5d6ff">"Java"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Spring Boot"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Node.js"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Express"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Prisma"</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:0.97s">
+      <text x="72" y="244" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">5</text>
+      <text x="100" y="244" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">frontend</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#8b949e">[</tspan><tspan fill="#a5d6ff">"Next.js"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"React"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Tailwind"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"GSAP"</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:1.15s">
+      <text x="72" y="280" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">6</text>
+      <text x="100" y="280" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">currentlyBuilding</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#a5d6ff">"IRCTC-style train reservation backend"</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:1.33s">
+      <text x="72" y="316" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">7</text>
+      <text x="100" y="316" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">learning</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#8b949e">[</tspan><tspan fill="#a5d6ff">"System design"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Distributed systems"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"Redis"</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:1.51s">
+      <text x="72" y="352" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">8</text>
+      <text x="100" y="352" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">caresAbout</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#8b949e">[</tspan><tspan fill="#a5d6ff">"correctness"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"tests"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"security"</tspan><tspan fill="#8b949e">, </tspan><tspan fill="#a5d6ff">"readable code"</tspan><tspan fill="#8b949e">]</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:1.69s">
+      <text x="72" y="388" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">9</text>
+      <text x="100" y="388" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve">  <tspan fill="#d2a8ff">funFact</tspan><tspan fill="#8b949e">:</tspan> <tspan fill="#a5d6ff">"my own app warns me before I overspend"</tspan><tspan fill="#8b949e">,</tspan></text>
+    </g><g class="ln" style="animation-delay:1.87s">
+      <text x="72" y="424" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="17" fill="#8b949e" opacity="0.6">10</text>
+      <text x="100" y="424" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="21" fill="#e6edf3" xml:space="preserve"><tspan fill="#8b949e">};</tspan></text>
+    </g>
+<rect class="cursor" x="128" y="404" width="12" height="25" fill="#22d3ee"/>
+</svg>

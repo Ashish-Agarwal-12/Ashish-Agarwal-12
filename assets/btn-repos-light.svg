@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="230" height="56" viewBox="0 0 230 56" role="img" aria-label="Browse my repos">
+<title>Browse my repos</title>
+<style>.glow{animation:glow 3s ease-in-out infinite}@keyframes glow{50%{opacity:.55}}@media (prefers-reduced-motion: reduce) { * { animation: none !important; } }</style>
+<rect class="glow" x="1" y="1" width="228" height="54" rx="28" fill="none" stroke="#7c3aed" stroke-width="2" opacity="0.9"/>
+<rect x="5" y="5" width="220" height="46" rx="23" fill="#7c3aed"/>
+<text x="32" y="38" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="19" font-weight="700" fill="#ffffff">&lt;/&gt;</text>
+<text x="140" y="34" text-anchor="middle" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, 'Helvetica Neue', Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff">Browse my repos</text>
+</svg>
