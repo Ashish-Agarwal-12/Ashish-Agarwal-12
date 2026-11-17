@@ -12,11 +12,11 @@ I like the hard parts of backend work — booking systems that never double-book
 
 ## 🛠️ Tech stack
 
-**Languages:** Java · TypeScript · JavaScript · SQL
-**Backend:** Spring Boot · Spring Data JPA · Spring Security · Node.js · Express · Prisma · Zod
-**Frontend:** Next.js · React · Tailwind CSS · GSAP · Framer Motion · Three.js
-**Databases:** PostgreSQL · MySQL · MongoDB · Redis · H2
-**DevOps & tools:** Docker · GitHub Actions · Vercel · Gradle · Maven · Vitest · Git
+- **Languages:** Java · TypeScript · JavaScript · SQL
+- **Backend:** Spring Boot · Spring Data JPA · Spring Security · Node.js · Express · Prisma · Zod
+- **Frontend:** Next.js · React · Tailwind CSS · GSAP · Framer Motion · Three.js
+- **Databases:** PostgreSQL · MySQL · MongoDB · Redis · H2
+- **DevOps & tools:** Docker · GitHub Actions · Vercel · Gradle · Maven · Vitest · Git
 
 ---
 
